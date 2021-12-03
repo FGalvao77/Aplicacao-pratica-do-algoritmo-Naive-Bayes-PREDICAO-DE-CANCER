@@ -1,0 +1,1 @@
+# Aplicacao-pratica-do-algoritmo-Naive-Bayes-PREDICAO-DE-CANCER
